@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/s23130437/OneDrive/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/s23130437/OneDrive/MyProject/Content/Map/testmap.umap",
+				"C:/Users/s23130437/OneDrive/MyProject/Content/Map/_GENERATED/s23130437/Cylinder_6B97D7E7.uasset",
+				"C:/Users/s23130437/OneDrive/MyProject/Content/Map/_GENERATED/s23130437/Box_072C8311.uasset",
+				"C:/Users/s23130437/OneDrive/MyProject/Content/Blueprint/hello.uasset",
+				"C:/Users/s23130437/OneDrive/MyProject/Content/Blueprint/BP_hello.uasset",
+				"C:/Users/s23130437/OneDrive/MyProject/Content/Map/testmap_BuiltData.uasset"
+			]
+		}
+	]
+}
